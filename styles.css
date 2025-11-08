@@ -41,11 +41,12 @@ button{
 	background-color:#2877f2;
 	border-radius:5px ;
 	padding:10px 20px;
+	width:100%;
 }
 a{
 	text-decoration:none;
 	color:#1877f2;
 }
 .signup{
-	background-color:42b72a;
+	background-color:#42b72a;
 }
